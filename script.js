@@ -5,4 +5,4 @@ let num1 = 4 + 6
 let num2 = 10 * 4
 let num3 = 13 * 3
 //This will generate a pop-up alert
-alert(`the vault code is ${num1}-${num2}-${num3}`)
+alert(`The vault code is ${num1}-${num2}-${num3}`)
